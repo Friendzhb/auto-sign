@@ -15,7 +15,7 @@ users:
       #email 接受通知消息的邮箱
       email: 461009747@qq.com
       #school 学校全称
-      school: 新乡医学院
+      school: 湖北科技职业学院
       #lon 经度
       lon: '114.639377'
       #lat 纬度
